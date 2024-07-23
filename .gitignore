@@ -7,3 +7,6 @@
 /MAUIWorkSpace/MAUIWorkSpace/bin/Debug/net8.0-windows10.0.19041.0/win10-x64
 /MAUIWorkSpace/MAUIWorkSpace/obj
 /MAUIWorkSpace/.vs/ProjectEvaluation
+/MAUIWorkSpace/MAUIWorkSpace/bin/Debug/net8.0-android
+/MAUIWorkSpace/MAUIWorkSpace/ViewModels/NotificationViewModel.cs
+/MAUIWorkSpace/MAUIWorkSpace/Views/Notification.xaml
